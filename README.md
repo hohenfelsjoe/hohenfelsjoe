@@ -2,7 +2,7 @@
 ### Right now, I’m interested in 2A, 3D printing and Making. My focus might change from time to time. 
 
 
-### If you want to reach me, join the discussion
+### If you want to reach me, [join the discussion](https://github.com/hohenfelsjoe/Comms/discussions/1)
 
 
 ## Current Repos / Projects:
