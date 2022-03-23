@@ -8,7 +8,7 @@
 ## Current Repos / Projects:
 
 [Linux Playbooks:](https://github.com/hohenfelsjoe/Playbooks)
-These are mostly basic security playbooks.
+These are mostly basic security playbooks for Redhat, Ubuntu and Raspberry Pi. I am starting to work in others such as LAMP stack.
 <br></br>
 
 [AR-15 Bolt Carrier Group Measurements and Pin Outs:](https://github.com/hohenfelsjoe/BCG_Measurements "Join the Discussion below if you want access") I am working on getting dimentions, pin sizes, and more. Kind of like in the discussion [HERE](https://www.m4carbine.net/showthread.php?233058-School-of-the-American-Rifle). Go to the General Discussion below to get access.
