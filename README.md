@@ -12,7 +12,6 @@ These are basic security playbooks for Redhat, Ubuntu and Raspberry Pi. I am sta
 <br></br>
 
 [AR-15 Bolt Carrier Group Measurements and Pin Outs:](http://viking-armory.com "Web Site that I regularly updated") 
-
 <br></br>
 
 ## Other Info and Projects:
