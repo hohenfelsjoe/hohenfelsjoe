@@ -2,7 +2,7 @@
 ### 3D printing, Learning and Making.
 
 
-### If you want to reach me, [join the discussion](https://github.com/hohenfelsjoe/Comms/discussions/1)
+### If you want to reach me, [join the discussion](https://discord.gg/PbvZzngg4U)
 
 
 ## Current Repos / Projects:
